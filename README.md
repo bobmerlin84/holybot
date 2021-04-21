@@ -12,4 +12,7 @@ You need to install:
 3- ytdl-core with this code ==> npm i ytdl-core or npm install ytdl-core
 
 
+And you can run it with this code ==> node .
+
+
 I hope to enjoy:)
